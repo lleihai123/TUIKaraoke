@@ -60,7 +60,7 @@ TUIKaraoke
 
 步骤2、点击创建房间，如下图示：
 
-<img src="https://min-cos-1300507594.cos.ap-beijing.myqcloud.com/tmp/ktv/ktv_a2.jpg" width="320"/>
+<img src="https://main.qcloudimg.com/raw/ae3d6bffcd07153c69ad8e0702834139.jpg" width="320"/>
 
 步骤3、输入房间主题，点击一起嗨歌；
 

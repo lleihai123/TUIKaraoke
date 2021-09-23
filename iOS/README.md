@@ -72,7 +72,7 @@ TUIKaraoke
 
 步骤2、输入用户 A 创建的房间号，点击加入房间
 
-<img src="https://min-cos-1300507594.cos.ap-beijing.myqcloud.com/tmp/ktv/ktv_b2.jpg" width="320"/>
+<img src="https://main.qcloudimg.com/raw/ae3d6bffcd07153c69ad8e0702834139.jpg" width="320"/>
 
 <font color=red>请注意，房间号在用户 A 的房间顶部查看，如下图示：</font>
 
